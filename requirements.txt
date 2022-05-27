@@ -1,0 +1,10 @@
+tensorflow-gpu==2.5.3
+keras-tuner
+pandas
+numpy
+jupyter
+nbextensions
+jupyterthemes
+jupyter_contrib_nbextensions
+qgrid
+flask
