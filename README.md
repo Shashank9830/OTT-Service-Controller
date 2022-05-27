@@ -4,15 +4,15 @@ Controlling online streaming services with Hand Gestures.
 
 ## Controller
 
-Responsible for controlling the browser via Selenium.
+Responsible for controlling the browser via Selenium. (click on the image below to watch it on YouTube)
 
-[<img src="https://img.youtube.com/vi/9ZCDPGXXueY/maxresdefault.jpg" width="50%">](https://youtu.be/9ZCDPGXXueY)
+[<img src="https://img.youtube.com/vi/9ZCDPGXXueY/maxresdefault.jpg">](https://youtu.be/9ZCDPGXXueY)
 
 Automatic login using Cookie Manager for Amazon Prime Video.
 
-[<img src="https://img.youtube.com/vi/WLX6uhnZ_S8/maxresdefault.jpg" width="50%">](https://youtu.be/WLX6uhnZ_S8)
+[<img src="https://img.youtube.com/vi/WLX6uhnZ_S8/maxresdefault.jpg"](https://youtu.be/WLX6uhnZ_S8)
 
-Automatic login using Cookie Manager for Netflix.
+Automatic login using Cookie Manager for Netflix. (click on the image below to watch it on YouTube)
 
 ## Detector
 This is a simple approach to Gesture Recognition using Deep learning in tensorflow. This uses a combination of Convolutional Neural Networks & variant of Recurrent Neural Network for recognising the hand and the movement (gesture) made using it respectively. 
